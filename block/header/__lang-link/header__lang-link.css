@@ -1,0 +1,10 @@
+.header__lang-link {
+	/* вычел 46(расстояние топ лангов) - 28(расстояние топ лого) = 18px внутр отступ */
+	padding-top: 18px; 
+	display: flex;
+	font-size: 24px;
+	line-height: 28px;
+	font-weight: 400;
+	column-gap: 18px;
+}
+
