@@ -1,0 +1,7 @@
+.places {
+	margin: 92px auto 0;
+	padding: 0 48px;
+	display: grid;
+	row-gap: 80px;
+	justify-content: center;
+}

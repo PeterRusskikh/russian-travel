@@ -19,6 +19,36 @@
 @import url(../block/lead/__image/lead__image.css);
 @import url(../block/lead/__caption/lead__caption.css);
 
+/* -----intro------------------------------------ */
+@import url(../block/intro/intro.css);
+@import url(../block/intro/__title/intro__title.css);
+@import url(../block/intro/__text/intro__text.css);
+@import url(../block/intro/__list/intro__list.css);
+
+/* -----photo-gred---------------------------------- */
+@import url(../block/photo-grid/photo-grid.css);
+@import url(../block/photo-grid/__item/photo-grid__item.css);
+
+/* -----place---------------------------------- */
+@import url(../block/place/place.css);
+
+/* -----place---------------------------------- */
+@import url(../block/places/places.css);
+@import url(../block/place/__title/place__title.css);
+@import url(../block/place/__image/place__image.css);
+@import url(../block/place/__paragraph/place__paragraph.css);
+
+/* -----website---------------------------------- */
+@import url(../block/website/website.css);
+@import url(../block/website/__url-heading/website__url-heading.css);
+@import url(../block/website/__iink/website__iink.css);
+
+/* -----content---------------------------------- */
+@import url(../block/cover/cover.css);
+@import url(../block/cover/__title/cover__title.css);
+@import url(../block/cover/__subtitle/cover__subtitle.css);
+@import url(../block/cover/__overlay/cover__overlay.css);
+@import url(../block/cover/__background/cover__background.css);
 
 
 
@@ -32,7 +62,7 @@
 
 
 /* -----media------------------------------------ */
-@import url(../block/media.css);
+@import url(../block/media/media.css);
 
 
 
