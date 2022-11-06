@@ -50,13 +50,16 @@
 @import url(../block/cover/__overlay/cover__overlay.css);
 @import url(../block/cover/__background/cover__background.css);
 
+/* -----footer---------------------------------- */
+@import url(../block/footer/footer.css);
+@import url(../block/footer/__links/footer__links.css);
+@import url(../block/footer/__link/footer__link.css);
+@import url(../block/footer/__copyright/footer__copyright.css);
 
 
 
-/* -----content---------------------------------- */
 
 
-/* -----footer------------------------------------ */
 
 
 
