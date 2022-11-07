@@ -1,0 +1,8 @@
+.link {
+	text-decoration: underline;
+	color: white;
+	text-underline-offset: 4px;
+}
+.link:hover {
+	color: #D4D5D5;
+}

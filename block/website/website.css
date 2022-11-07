@@ -1,0 +1,18 @@
+.website {
+	grid-column-start: 2;
+	grid-row-start: 1;
+	display: flex;
+	flex-direction: column;
+	justify-content: end;
+}
+@media screen and (max-width: 720px) {
+	.website {
+		grid-row-start: 2;
+		grid-column-start: 1;
+	}
+}
+@media screen and (max-width: 320px) {
+	.website {
+		padding: 0 16px;
+	}
+}
