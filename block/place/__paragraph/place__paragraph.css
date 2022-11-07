@@ -1,14 +1,27 @@
 .place__paragraph {
 	font-weight: 400;
 	font-size: 18px;
-	line-height: 29.34px;
-	grid-column-start: 2;
-	grid-row-start: 2;
+	line-height: 29.04px;
 	display: flex;
 	flex-direction: column;
-	row-gap: 26px;
+	row-gap: 25px;
+	
 }
 .place__paragraph * {
 	margin: 0;
 }
+
+@media screen and (max-width: 768px) {
+	.place__paragraph {
+		font-size: 16px;
+		line-height: 26.08px;
+		row-gap: 25px;
+	}
+}
+@media screen and (max-width: 320px) {
+	.place__paragraph {
+		padding: 0 16px;
+	}
+}
+
 

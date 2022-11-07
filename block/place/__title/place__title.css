@@ -3,7 +3,17 @@
 	font-weight: 900;
 	font-size: 72px;
 	line-height: 76px;
-	display: flex;
-	flex-direction: column;
-	justify-content: end;
+	white-space: pre-wrap;
+}
+
+@media screen and (max-width: 768px){
+	.place__title {
+		font-size: 42px;
+		line-height: 46px;
+	}
+}
+@media screen and (max-width: 320px) {
+	.place__title {
+		padding: 0 16px;
+	}
 }
