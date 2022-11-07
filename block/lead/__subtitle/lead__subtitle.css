@@ -9,7 +9,6 @@
 @media screen and (max-width: 768px){
 	.lead__subtitle {
 		padding: 0 24px;
-		max-width: calc(288px + (480 + 480 * 0.7) * ((100vw - 288px) / 1240));
 		font-size: calc(16px + (14 + 14 * 0.7) * ((100vw - 320px) / 768));
 		line-height: calc(20px + (16 + 16 * 0.7) * ((100vw - 320px) / 768));
 	}
