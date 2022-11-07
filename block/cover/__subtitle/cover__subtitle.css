@@ -11,11 +11,9 @@
 @media screen and (max-width: 768px) {
 	.cover__subtitle {
 		max-width: calc(288px + (480 + 480 * 0.7) * ((100vw - 288px) /1240));
-		max-height: 66px;
-	}
-	.cover__subtitle {
 		font-size: calc(14px + (5 + 4 * 0.7) * ((100vw - 320px) / 768));
-		line-height: calc(16px + (6 + 6 * 0.7) * ((100vw - 320px) / 768));;
+		line-height: calc(16px + (6 + 6 * 0.7) * ((100vw - 320px) / 768));
+		max-height: 66px;
 	}
 }
 @media screen and (max-width: 320px) {
