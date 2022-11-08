@@ -9,7 +9,7 @@
 	text-decoration: none;
 }
 .header__lang-link:hover {
-	color: #D4D5D5;
+	opacity: 0.8;
 }
 @media screen and (max-width: 320px) {
 	.header__lang-link {

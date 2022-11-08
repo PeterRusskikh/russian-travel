@@ -9,11 +9,10 @@
 
 @media screen and (max-width: 768px) {
 	.cover__title {
+		/* плавное уменьшение размеров */
 		font-size: calc(32px + (40 + 40 * 0.7) * ((100vw - 320px) / 768));
 		line-height: calc(36px + (41 + 41 * 0.7) * ((100vw - 320px) / 768));
 		max-width: calc(288px + (480 + 480 * 0.7) * ((100vw - 288px) / 1240));
-		max-height: 152px;
-		white-space: pre-wrap;
 	}
 }
 @media screen and (max-width: 320px) {
@@ -21,6 +20,5 @@
 		width: 280px;
 		font-size: 32px;
 		line-height: 35px;
-		text-align: center;
 	}
 }

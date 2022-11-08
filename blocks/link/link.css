@@ -4,5 +4,5 @@
 	text-underline-offset: 4px;
 }
 .link:hover {
-	color: #D4D5D5;
+	opacity: 0.8;
 }

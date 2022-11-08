@@ -7,11 +7,11 @@
 }
 @media screen and (max-width: 720px) {
 	.website {
-		grid-row-start: 2;
 		grid-column-start: 1;
+		grid-row-start: 2;
 	}
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 400px) {
 	.website {
 		padding: 0 16px;
 	}
