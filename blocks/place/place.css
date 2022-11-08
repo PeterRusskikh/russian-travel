@@ -6,11 +6,6 @@
 	max-width: 984px;
 	margin: 0 auto;
  }
- .q1 {
-	grid-row-start: 2;
-	grid-row-end: 3;
- }
-
 @media screen and (max-width: 1024px) {
 	.place {
 		gap: 48px 32px;
