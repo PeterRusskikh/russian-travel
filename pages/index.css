@@ -5,6 +5,7 @@
 @import url(../vendor/fonts/fonts.css);
 
 /* -----стиль для главного котейнера-------------- */
+@import url(../blocks/body-background/body-background.css);
 @import url(../blocks/page/page.css);
 
 /* -----Общиe стили------------------------------- */
