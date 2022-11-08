@@ -3,6 +3,12 @@
 	font-size: 18px;
 	line-height: 29.04px;
 	margin: 0;
+	max-width: 484px;
+}
+@media screen and (max-width: 1024px) {
+	.place__paragraph {
+		max-width: 456px;
+	}
 }
 @media screen and (max-width: 768px) {
 	.place__paragraph {
