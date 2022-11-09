@@ -1,7 +1,7 @@
 .cover__overlay {
 	min-height: 740px;
-	/* поставил впереди точку и у меня перестала отображаться картинка */
-	background-image: url("./images/cover-trains.jpg");
+	/* поставил впереди 2 точки и у меня так же перестала отображаться картинка */
+	background-image: url("../../img/cover-trains.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
