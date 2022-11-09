@@ -5,7 +5,7 @@
 @import url(../vendor/fonts/fonts.css);
 
 /* -----стиль для главного котейнера-------------- */
-@import url(../blocks/body-background/body-background.css);
+@import url(../blocks/body/body.css);
 @import url(../blocks/page/page.css);
 
 /* -----Общиe стили------------------------------- */
@@ -30,7 +30,7 @@
 @import url(../blocks/intro/__title/intro__title.css);
 @import url(../blocks/intro/__text/intro__text.css);
 @import url(../blocks/intro/__list/intro__list.css);
-@import url(../blocks/intro/__list/__list-bold/intro__list-bold.css);
+@import url(../blocks/intro/__list-bold/intro__list-bold.css);
 
 /* -----photo-gred---------------------------------- */
 @import url(../blocks/photo-grid/photo-grid.css);
