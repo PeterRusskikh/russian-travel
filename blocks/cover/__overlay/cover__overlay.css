@@ -7,8 +7,8 @@
 	background-size: cover;
 	box-sizing: border-box;
 	display: flex;
-	flex-direction: column;
 	justify-content: center;
+	flex-direction: column;
 	text-decoration: none;
 	color: white;
 	position: relative;
