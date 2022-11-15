@@ -8,8 +8,8 @@
 	box-sizing: border-box;
 	display: flex;
 	justify-content: center;
-	flex-direction: column;
 	text-decoration: none;
+	flex-direction: column;
 	color: white;
 	position: relative;
 	z-index: 0;
