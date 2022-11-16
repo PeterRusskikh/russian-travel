@@ -10,10 +10,10 @@
 	justify-content: center;
 	text-decoration: none;
 	flex-direction: column;
-	color: white;
 	position: relative;
 	z-index: 0;
 	align-items: center;
+	color: white;
 }
 .cover__overlay::before {
 	content: '';
