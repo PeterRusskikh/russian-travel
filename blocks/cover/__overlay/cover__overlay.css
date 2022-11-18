@@ -9,8 +9,8 @@
 	display: flex;
 	justify-content: center;
 	text-decoration: none;
-	flex-direction: column;
 	z-index: 0;
+	flex-direction: column;
 	position: relative;
 	align-items: center;
 	color: white;
